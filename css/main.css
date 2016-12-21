@@ -1,0 +1,62 @@
+*{
+	font-family: 'Julius Sans One', sans-serif;
+	color:white;
+}
+
+.container{
+	text-align: center
+}
+.continent{
+	background:url(../img/continent.jpg) no-repeat center center fixed;
+	background-size:cover;
+	height:500px;
+	width:100%;
+	border-radius:20px;
+	box-shadow:10px 10px 10px grey;
+
+}
+.color{
+	background:url(../img/color.jpg) no-repeat center center fixed;
+	background-size:cover;
+	height:500px;
+	width:100%;
+	border-radius:20px;
+	box-shadow:10px 10px 10px grey;
+}
+.car{
+	background:url(../img/car.jpg) no-repeat center center fixed;
+	background-size:cover;
+	height:500px;
+	width:100%;
+	border-radius:20px;
+	box-shadow:10px 10px 10px grey;
+}
+
+.failure{
+	background-color:red;
+}
+.success{
+	background-color:green;
+}
+h1.head{
+	color:black;
+	font-size:50px;
+	font-weight:bold;
+}
+
+h2.ques{
+	padding-top:30px;
+	text-decoration:underline;
+}
+
+input.answer1,input.answer3{
+	margin-top:30px;
+	color:red;
+}
+select{
+	margin-top:100px;
+}
+button{
+	margin-top:40px;
+}
+
